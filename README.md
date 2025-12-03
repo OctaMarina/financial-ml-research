@@ -48,3 +48,14 @@ This structure cleanly separates code, configurations, and outputs, making it ea
 ## Notes
 
 The project is research-oriented and not intended as a production system. The layout of the `financial_ml` package will evolve naturally as the dissertation progresses.
+
+
+## Credits
+
+https://github.com/Gunther-Schulz/mlfinlab-2/tree/master/mlfinlab/backtest_statistics
+
+https://github.com/jjakimoto/finance_ml
+
+https://github.com/hudson-and-thames/mlfinlab/tree/master/mlfinlab
+
+https://github.com/boyboi86/AFML
